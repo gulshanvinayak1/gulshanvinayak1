@@ -56,7 +56,7 @@
 
 ### 🍽️ Sukoon – Outlets Management System  
 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
-🔗 **[Repository Link](https://github.com/gulshanvinayak1/Sukoon)**  
+🔗 **[Repository Link](https://github.com/gulshanvinayak1/Sukoon/tree/my-new-branch)**  
 - Built a management system for multi-outlet chains (food trucks, stores).  
 - Features include QR-based ordering, inventory tracking, daily updates, manager salary logs, and item availability control.  
 - Enabled real-time order status monitoring and discrepancy checking for transparency.
