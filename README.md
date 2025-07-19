@@ -10,7 +10,7 @@
 🎓 BTech in ECE @ NIT Jalandhar '24  
 📚 Pursuing MTech in Signal Processing & Machine Learning  
 💻 Passionate about Web Development, AI Chatbots & Research  
-🌐 Cultural & Marketing Head @ RLC, NITJ  
+🌐 Cultural & Marketing Head @ RLC, NIT JALANDHAR
 📫 Reach me at: gulshan1001v@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/gulshanvinayak1](https://linkedin.com/in/gulshanvinayak1)
 
