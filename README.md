@@ -1,5 +1,5 @@
 # Hi, I'm Gulshan 👋  
-**Software Engineer | AI & ML Researcher | 500+ LeetCode | MTech @ NIT Jalandhar**
+**Software Engineer | AI & ML Researcher | 600+ LeetCode | MTech @ NIT Jalandhar**
 
 Building intelligent systems, scalable platforms, and real-world AI applications.
 
